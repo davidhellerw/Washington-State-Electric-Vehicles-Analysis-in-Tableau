@@ -3,6 +3,9 @@
 <h2>Overview</h2>
 <p>This project provides an in-depth analysis of the electric vehicle (EV) landscape in Washington State using Tableau. The analysis covers data from the Washington State Department of Licensing (DOL), detailing the distribution, growth, and characteristics of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs) registered between 2011 and June 22, 2024.</p>
 
+<h2>Dashboard Image</h2>
+<img src="EV Tableau Dashboard.png" alt="Washington State Electric Vehicles Dashboard">
+
 <h2>Key Insights</h2>
 <ul>
     <li><strong>Total Electric Vehicles</strong>: 193,739</li>
